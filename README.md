@@ -1,4 +1,9 @@
-# This is a fork of mewo2/terrain, created:
+Forked from `markkampe`, who forked from `mewo2`, this is an attempt to take the
+terrain generation code put together by Martin O'leary and adapt it for my use.
+
+# Notes from previous developers:
+
+## This is a fork of markkampe/terrain, created:
 * because the owner (Martin O'Leary) considers it to be complete
     and has moved on to other projects.
 * I want to take it in a slightly different direction.
@@ -9,7 +14,7 @@
     change design decision parameters and engines (so they can 
     change the way that worlds unfold).
 
-# Original Creator Information and License
+## Original Creator Information and License
 
 Martin O'leary (mewo2), drawing on D3 and Adam Hooper's js-priority-queue.
 
