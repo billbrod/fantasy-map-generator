@@ -1,6 +1,9 @@
 Forked from `markkampe`, who forked from `mewo2`, this is an attempt to take the
 terrain generation code put together by Martin O'leary and adapt it for my use.
 
+- [Martin O'Leary's original notes](https://mewo2.com/notes/terrain/), explaining the steps involved
+- language.js comes from [this repo](https://github.com/mewo2/naming-language)
+
 # Notes from previous developers:
 
 ## This is a fork of markkampe/terrain, created:
